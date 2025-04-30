@@ -29,5 +29,3 @@ A clean and responsive **social media profile card** built using **HTML**, **CSS
 
 ---
 
-## 📁 Project Structure
-
