@@ -2,7 +2,6 @@
 
 A clean and responsive **social media profile card** built using **HTML**, **CSS**, and **JavaScript**. This frontend-only project showcases a user profile layout with stats, a bio, and interactive follow button.
 
-![Screenshot](screenshot.png) <!-- Add your actual screenshot file or URL -->
 
 ## 🚀 Live Demo
 
