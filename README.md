@@ -23,9 +23,9 @@ A clean and responsive **social media profile card** built using **HTML**, **CSS
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ---
 
